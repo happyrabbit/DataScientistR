@@ -1,0 +1,11 @@
+Companies	ComCt	Universities	UnivCt	Industries	IndCt	Locations	LocCt
+Microsoft	1006	Stanford University	1672	Information Technology & Services 	17865	United States	35238
+IBM	887	University of California, Berkeley	1586	Computer Software	13432	India	5741
+Facebook	591	Columbia University in the City of New York	1109	Research	10804	United Kingdom	5310
+Amazon	544	Massachusetts Institute of Technology	1059	Internet	4024	France 	4740
+Google	474	University of Washington	938	Financial Services	3491	Greater New York City Area	4718
+Accenture	318	Georgia Institute of Technology	859	Pharmaceuticals	2314	Paris Area, France	3247
+Apple	311	University of Illinois at Urbana-Champaign	780	Management Consulting	2037	Washington D.C. Metro Area	2070
+Capital	305	University of Michigan	759	Higher Education	1899	Greater Boston Area	1965
+Uber	296	Northwestern University	735	Marketing & Advertising	1578	Australia 	1807
+Nielsen	255	The University of Texas at Austin	676	Biotechnology	1461	Switzerland	921
