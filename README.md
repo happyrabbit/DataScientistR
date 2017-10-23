@@ -1,6 +1,6 @@
 ## 《套路！机器学习：北美数据科学家的私房课》
 
-![](https://github.com/happyrabbit/DataScientistR/blob/master/images/BookCn01.png)
+<p align="center"><img src="https://github.com/happyrabbit/DataScientistR/blob/master/images/BookCn01.png" alt="HTML5 Icon" width="50%"></p>
 
 
 第1章  白话数据科学  1
