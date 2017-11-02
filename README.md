@@ -1,5 +1,9 @@
 ## 《套路！机器学习：北美数据科学家的私房课》
 
+- 当前版本提供的是R代码，关于Python用户的忧伤，我已经收到。我会慢慢的在这里提供相应的Python代码。不要问我多久能够完成，不然我会开始忧伤的。
+- 我没有微博，欢迎国内的小伙伴翻墙加我推特：@gossip_rabbit
+- 关于本书的任何问题，请在issue页面提交：https://github.com/happyrabbit/DataScientistR/issues
+
 <p align="center"><img src="https://github.com/happyrabbit/DataScientistR/blob/master/images/BookCn01.png" alt="HTML5 Icon" width="50%"></p>
 
 
